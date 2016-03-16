@@ -1,111 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="256"
-   height="256"
-   id="svg2183"
-   sodipodi:version="0.32"
-   inkscape:version="0.45.1"
-   version="1.0"
-   sodipodi:docbase="D:\Development\SVN\TortoiseSVN\src\Resources\svg\Overlays"
-   sodipodi:docname="TortoiseModified.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="D:\Development\SVN\TortoiseSVN\src\Resources\svg\Overlays\TortoiseModified.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
-  <defs
-     id="defs2185">
-    <linearGradient
-       id="linearGradient4154">
-      <stop
-         style="stop-color:#f6833d;stop-opacity:0.61176473;"
-         offset="0"
-         id="stop4156" />
-      <stop
-         style="stop-color:#b00400;stop-opacity:1;"
-         offset="1"
-         id="stop4158" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4154"
-       id="radialGradient4162"
-       cx="47.119026"
-       cy="208.49529"
-       fx="47.119026"
-       fy="208.49529"
-       r="47.490459"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
-  <sodipodi:namedview
-     id="base"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="256px"
+   height="256px"
+   viewBox="0 0 256 256"
+   enable-background="new 0 0 256 256"
+   xml:space="preserve"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ModifiedIcon.svg"><metadata
+     id="metadata3374"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs3372" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9445436"
-     inkscape:cx="84.700639"
-     inkscape:cy="99.210147"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     inkscape:document-units="px"
-     inkscape:grid-bbox="true"
-     width="256px"
-     height="256px"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:window-width="1191"
-     inkscape:window-height="1067"
-     inkscape:window-x="523"
-     inkscape:window-y="29" />
-  <metadata
-     id="metadata2188">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
-    <path
-       sodipodi:type="arc"
-       style="fill:url(#radialGradient4162);fill-opacity:1;stroke:none;stroke-opacity:0.76394851"
-       id="path3183"
-       sodipodi:cx="47.119026"
-       sodipodi:cy="208.49529"
-       sodipodi:rx="46.990459"
-       sodipodi:ry="46.990459"
-       d="M 94.109486 208.49529 A 46.990459 46.990459 0 1 1  0.12856674,208.49529 A 46.990459 46.990459 0 1 1  94.109486 208.49529 z"
-       transform="matrix(1.7024809,0,0,1.7046963,0.281369,-179.98661)" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#c8c8c8;stroke-width:1.80496562px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 74.876099,114.24837 C 66.159408,144.87776 64.620625,176.89655 73.026032,210.30089 L 85.359815,209.95163 C 94.149732,176.90487 92.880627,148.03847 84.434782,113.89906 L 74.876099,114.24837 z "
-       id="path3158"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       sodipodi:type="arc"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#c8c8c8;stroke-opacity:1"
-       id="path3160"
-       sodipodi:cx="47.272728"
-       sodipodi:cy="243.63637"
-       sodipodi:rx="5.2727275"
-       sodipodi:ry="4.909091"
-       d="M 52.545455 243.63637 A 5.2727275 4.909091 0 1 1  42,243.63637 A 5.2727275 4.909091 0 1 1  52.545455 243.63637 z"
-       transform="matrix(1.7021375,0,0,1.7046113,-4.1445146e-2,-177.49443)" />
-  </g>
-</svg>
+     inkscape:window-width="1600"
+     inkscape:window-height="827"
+     id="namedview3370"
+     showgrid="false"
+     inkscape:zoom="2.6171875"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" /><image
+     id="image0"
+     width="512"
+     height="512"
+     x="-8"
+     y="-248"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAMAAABrrFhUAAAABGdBTUEAALGPC/xhBQAAACBjSFJN AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABiVBMVEUAAADMRy7MRy7MRy7M Ry7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7M Ry7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7M Ry7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7M Ry7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7MRy7M Ry7MRy7RWkTuvbT67On////UZFD78vHUYk3vwbnuv7f99/X89PP+/f367uz56uf239v129b02dTz 1c/wyr7tu7LrsqjprqTnpprln5PlnZDjmYzhkYLfinvehnbbfGrad2XYcV7WaVTSXEbQVDzOTzj9 +fj35ODy0crst63subDqsKboqJzmpJjkm47ilYfaemj019H++/rSJ2CaAAAAUXRSTlMADDNjh6jM 8/y0kGY5FRhXn+HqqyGK2EsbfuctSL3PYANR3gbS5Gwq1T8J+aJF8IGlwPZab5mTummWeDYSJ7FU 7TDDXa5yHiR7dZxOQjzGyduNMezJAAAAAWJLR0RVkwS4MwAAAAlwSFlzAAAOwwAADsMBx2+oZAAA AAd0SU1FB+ADEBc2LoGKtSIAAAXTSURBVHja7d37WxNXEAZghBCiKBBRBGshUBBFJFSq1BaLaC/S 0ssR8YKKtl5b74qX1rt/eRNCYAeSnJndwMzC9/7MPM9+Y7I5e87ZY00NAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMTLltq6 RH0y2eAWpJLJrdsat+/Qvqp10tTcknYl7Wxt3KV9dWtt++42V1G6ZY/2Na6d9g5P+oK9uz/TvtI1 se9zTvqCzq6M9uVWW3eSHz+vp/EL7UuupuZeWfy8vv0bpgX9gg9/0IGD2ldeFQOJQ+Hy5wxugLHB 4XTo+DlDddrXH1EmGyV+3vAW7QxRtH8ZNb9zbTEeFRzeGT2/c0di+zUYCX/3o7LaScL5qkrxc45m tMOEkKhefuda4zcoOubLdHb63Myic9NnfX89GrcOeH/+zl+YCbhw0ff3wxntSCJfez/Ul2aIWW/B ce1MEt0pb57LtAFX/PeBb7RT8X3L+P27Shtw1V/hRrRzcY31MNJcEX8CXMMJ7WRM3zHCuDnagDlO TeeAdjSW/Zws7hptwDVW0VHtbBy1vAHwddqA66wiN66dzi/TyYvyJ23AX7yqvjHtfF7+EUDBDdqA G8wy86OBsZPMJDdpA24yy1IT2gk9BplBVo4EL3HrTmW0I1ZUy83hbtEG3GIXntbOWNH37By3aQNu swsPZLRDVtDvfwYoukMbcIdd6Lq1U1YwzI9xlzbgLr8yqZ2yvF38D4D7mzbgH36l26eds6xtghT3 aAPuCUpHtXOWM8AdA+Tdpw24LyhNNWknLWNEEMI9oA14IKn9QTtpGVslIR7SBjyU1HZqJy1tTHAL dO4RbcAjSa2zOR4WfQPcY9qAx6LihHbWktiPAQue0AY8ERX3amctKS3K8JQ24Kmo2P2oHbaEn2QR LtIGeBdGKIsTxNyZkEXPaAOeyaotzosIngPy5mkD5mXVFn8IWbtAlz2nDXguqz5kb610QDQKyKEN EBYbHAlMSCO8COZ/Ia22Ny80Lo1A1sY4K2PEGe28q0xKI5ClId7CUMDP2nlXkcwFLHgZbMBLabW9 OYF6aQSyNsZcGVtmb15sVBqBLA1xF4aW9GjnXeWUNMKrYANeSauHtPOuIn4jgKyNcVfGljRo543e gOlgA6al1U47b/QG/BtswH+bsAGvgw14La229xUQ3wTfBBvwRlpt7yYo/hl8G2zAW2m1vZ9B8UDo XbAB76TV9gZC4qHw+2AD3kur7Q2FxQ9DZG1MsjK2wN7DULM0AlkaEi0M5dl7HJ6QRiBLQ7KFIWdx QkQ8JTYf2C9+WTgnanFKTDopSm4CorXhvJS9SVHptHjOh4+f8uk/ffwgLrU4LS5cGInG4sKIcGks GotLYzXpdWyAxcVR4fJ4JDaXx2UbJCKxuUFCtkUmEoOjgDzRJqkoLP4I5nWtVwMmtZOWIdooGUGq XTtpOeI5gXDszQUUSTZLR2B3s3SI54EQ7M2GLRO8MCE8PyDA9LuD/FdmpOcHLDH9yozgpSnx+QFF 9uaCCPYDgfz8gALjr83xX5ycWYFZZv7FSfa8SMgGWJwJobgvT4drQAxenua+Ph+uAaZ/Aot4ByiE akAsDlBgHqERpgExOUKDd4hKiAbE5hAV1jE6IRpgciq4tF82+UFKIY7S8h+gYH8EQJzx5VnxMHTe 9/fD2omk/MfpzS6dpTQ3u/GO02McqCdRH7/83AERS8y+/0VVO1S1QztJWFN7qxH/iPEpkEqaQh6r HtTWr50iikw26kz5YKyP1s6Z4jwYlDUU449/0UA2/L2wZQMcr59zQryRuqD3V+0rr5rxUP/FRkb7 sqtpz2+y+G1dcRz7VXRQsH/i9xg9+gs0TbK+CX3Z2Mz8yE0kPD3oOT6lfY1rbUf3sT/K/NMPnza5 /28NZGpHOgaTycX91X3JZGuirjbuQz4AAADYbP4Hwq47olFIxSIAAAAldEVYdGRhdGU6Y3JlYXRl ADIwMTYtMDMtMTZUMjM6NTQ6NDYrMDk6MDDBY/FQAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE2LTAz LTE2VDIzOjU0OjQ2KzA5OjAwsD5J7AAAAABJRU5ErkJggg==" /></svg>
